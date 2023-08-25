@@ -1,0 +1,39 @@
+{
+  "person": [
+    {
+      "userName": "mario",
+      "password": "123123",
+      "description": "shoes",
+      "value": 34500,
+      "date": "11.3.2021",
+      "id": 1
+    },
+    {
+      "userName": "hello",
+      "password": "123123",
+      "description": "none",
+      "date": "null",
+      "value": 1500,
+      "id": 2
+    },
+    {
+      "userName": "ling",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "userName": "ling",
+      "description": "shoes price",
+      "date": "25.8.2023",
+      "value": 16500,
+      "id": 5
+    },
+    {
+      "userName": "ling",
+      "description": "clothes prices",
+      "date": "25.8.2023",
+      "value": "5000000",
+      "id": 6
+    }
+  ]
+}
